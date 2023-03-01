@@ -12,7 +12,7 @@
 </div>
 </div>
 
-<div style="text-align:center;">
+<div style="margin: auto;">
   <h1>💻 Linguagens 💻</h1>
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
