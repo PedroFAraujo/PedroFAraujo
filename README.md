@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E86C1&height=120&section=header">
 
 <div>
   
@@ -13,7 +12,7 @@
 </div>
 </div>
 
-<div>
+<div  align="center>
   <h1>💻 Linguagens 💻</h1>
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
@@ -29,4 +28,4 @@
   <a href="mailto:pedrofeearaujo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E86C1&height=120&section=footer">
+
